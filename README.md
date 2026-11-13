@@ -55,3 +55,17 @@ Daily heads of our hash-chained log of when we fetched each EDINET filing and wh
 - 公的な証明・認証（これは公証やタイムスタンプ局の認定を受けたものではありません。私たち自身の観測の記録です）
 
 台帳そのもの・書類 ID の一覧・書類の本体は公開していません。
+
+### 自分で検算する / Verify it yourself
+
+私たちが台帳の写しをお渡しした場合は、次のコマンドで、写しが壊れていないこと、また公開済みの先頭と一致することを、手元で確かめられます。
+
+```
+node verify-evidence-ledger.mjs ledger.jsonl evidence-heads.jsonl
+```
+
+- 台帳の各行の連番と、前の行のハッシュと、その行自身のハッシュを計算し直します。
+- `evidence-heads.jsonl` の行どうしの鎖と、写しの件数までの各日の `head` が一致するかを確かめます。
+- すべて合えば `PASS` と終了コード 0、どこかが合わなければ、合わない行を示して終了コード 1 を返します。
+
+If we give you a copy of the log, this command recomputes its chain and checks it against every daily head published here. It prints PASS (exit code 0), or the first entry that does not match (exit code 1).

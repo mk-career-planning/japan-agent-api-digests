@@ -1,3 +1,4 @@
 {"date_jst":"2026-11-12","source_id":"edinet","schema":"jp-evidence/v0","entries":75630,"head":"8279f8b88ca623b9bbb547208f3253fd3c5561436da9bac036617e6f67d2a08a","prev_sha256":null}
 {"date_jst":"2026-11-13","source_id":"edinet","schema":"jp-evidence/v0","entries":76145,"head":"97d12ec0b9ec7c627493924f09976d35cbe55d63c79cd46da87a47e68179c60b","prev_sha256":"6b8c03137d43ba2b3e76c1fcf77fb82856a219c27ad6c23b3823002b2e81e695"}
 {"date_jst":"2026-11-14","source_id":"edinet","schema":"jp-evidence/v0","entries":77474,"head":"63e9bf2853a826de655edac27ef7b78bc5851d38ea12fa74072d5c624c725005","prev_sha256":"ea925ba4bc28ec470f71f3cdb1a668453717db45cd1091a556a2519187290f77"}
+{"date_jst":"2026-11-15","source_id":"edinet","schema":"jp-evidence/v0","entries":78804,"head":"fffb288f0915d85c05add18c1442bc2d054d80ed0b8ac4a42e3343034acb6144","prev_sha256":"53514076f1193fcd962a06b30bb34e0f7c44c6fccadae5e02bdad6ddf53200b5"}

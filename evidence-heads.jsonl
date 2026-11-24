@@ -11,3 +11,4 @@
 {"date_jst":"2026-11-22","source_id":"edinet","schema":"jp-evidence/v0","entries":85866,"head":"06393c5d3dd4879b7cdf84c3684eff2427d112a998bbe8298278a2749e102f20","prev_sha256":"a9a9207f9cb0cf40320074b7463d9cbf9574599c863b51d0d20d7867a6637d3c"}
 {"date_jst":"2026-11-23","source_id":"edinet","schema":"jp-evidence/v0","entries":87195,"head":"99f3da2eed423c0e653738feafa6e8bb555ca2a70927e9e934e82c06c33228a1","prev_sha256":"6d01e5e143db410fa6455d38a338dbbc914af739a36564ffc83876537d363289"}
 {"date_jst":"2026-11-24","source_id":"edinet","schema":"jp-evidence/v0","entries":88497,"head":"bd106037fa29503983fe603dae7c2b78950ce1fc03268394ed381b8c98b48ab6","prev_sha256":"1bcc4925c477bcbd3c23bcdb0b853f33f77688f9106b78588930175f757dc43b"}
+{"date_jst":"2026-11-25","source_id":"edinet","schema":"jp-evidence/v0","entries":89827,"head":"17383928b3d0c874e3e92b60ee1663a4f434b728fd2183870571bad553b8153e","prev_sha256":"3f976c9725c08e5597367e6a523817198147e2cace0effb8d9effdade38ef187"}
